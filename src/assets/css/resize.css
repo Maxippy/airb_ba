@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+a {
+  color: #484848;
+}
+ul,
+li {
+  list-style: none;
+}
